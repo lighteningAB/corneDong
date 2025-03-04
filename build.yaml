@@ -19,6 +19,8 @@
 #
 ---
 include:
+  - board: seeduino_xiao_ble
+    shield: corne_dongle prospector_adapter
   - board: nice_nano_v2
     shield: corne_left
   - board: nice_nano_v2
