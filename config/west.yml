@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      Adurl-base: https://github.com/zmkfirmware
+      url-base: https://github.com/zmkfirmware
     - name: carrefinho
       url-base: https://github.com/carrefinho
   projects:
