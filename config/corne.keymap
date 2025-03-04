@@ -47,7 +47,7 @@
 // | CTRL |     |     |     |     |     |   |  -  |  =  |  [  |  ]  |  \  |  `   |
 // | SHFT |     |     |     |     |     |   |  _  |  +  |  {  |  }  | "|" |  ~   |
 //                    | GUI | SPC |     |   |     | ENT | ALT |
-                        display-name = 'BRACKETS';
+                        display-name = 'Brackets';
                         bindings = <
    &kp  TAB  &kp EXCL &kp AT &kp HASH &kp DLLR  &kp PRCNT   &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &kp BSPC
    &kp LCTRL &trans   &trans &trans   &trans    &trans      &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp BSLH &kp GRAVE
@@ -61,6 +61,7 @@
 // |      |     |     |     |     |     |   |  -  |  =  |  [  |  ]  |  \  |  `   |
 // | SHFT |     |     |     |     |     |   |  _  |  +  |  {  |  }  | "|" |  ~   |
 //                    | GUI | SPC |     |   |     | ENT | ALT |
+                        display-name = 'FN Layer'
                         bindings = <
    &kp ESC   &kp F1   &kp F2 &kp F3   &kp F4    &kp F5      &kp F6    &kp F7    &kp F7    &kp F8   &kp F9   &kp F11
    &trans    &trans   &trans &trans   &trans    &trans      &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp BSLH &kp GRAVE
