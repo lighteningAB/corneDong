@@ -2,10 +2,6 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #include "corne-layouts.dtsi"
 
-&foostan_corne_6col_layout {
-    transform = <&default_transform>;
-};
-
 / {
     chosen {
         zephyr,display = &oled;
