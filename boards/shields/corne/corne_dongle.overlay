@@ -11,7 +11,6 @@
 
     mock_kscan: kscan0 {
         compatible = "zmk,kscan-mock";
-        label = "kscan0";
         columns = <0>;
         rows = <0>;
         events = <0>;
